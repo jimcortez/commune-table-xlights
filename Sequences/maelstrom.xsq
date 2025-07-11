@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2024.13</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile/>
+    <sequenceDuration>600.000</sequenceDuration>
+    <imageDir/>
+  </head>
+  <nextid>1</nextid>
+  <Jukebox/>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FD8008,C_BUTTON_Palette2=#21FF06,C_BUTTON_Palette3=#FB02FF,C_BUTTON_Palette4=#800080,C_BUTTON_Palette5=#0000FF,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#FC66FF,C_BUTTON_Palette8=#800002,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,B_CHOICE_PerPreviewCamera=Top,B_SLIDER_Blur=5,E_0FILEPICKERCTRL_IFS=/Users/jecortez/workspace/commune/Shaders/70tiesMaelstrom.fs,E_SLIDER_SHADERXYZZY_iMouseX=52,E_SLIDER_SHADERXYZZY_iMouseY=50,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=-61</Effect>
+    <Effect>B_CHOICE_BufferStyle=As Pixel,B_SLIDER_Blur=2,E_TEXTCTRL_ColorWash_Cycles=2.0,T_CHECKBOX_Canvas=1</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="All" visible="1"/>
+    <Element collapsed="0" type="model" name="All Legs" visible="1"/>
+    <Element collapsed="0" type="model" name="Chandelier" visible="1"/>
+    <Element collapsed="0" type="model" name="LegsBeacon" visible="1"/>
+    <Element collapsed="0" type="model" name="Beacon" visible="1"/>
+    <Element collapsed="0" type="model" name="Susan" visible="1"/>
+    <Element collapsed="0" type="model" name="TableSusan" visible="1"/>
+    <Element collapsed="0" type="model" name="Table" visible="1"/>
+    <Element collapsed="0" type="model" name="planet" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All">
+      <EffectLayer>
+        <Effect ref="0" name="Shader" startTime="1200" endTime="601200" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="All Legs">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Chandelier">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LegsBeacon">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Beacon">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Susan">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="TableSusan">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Table">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="planet">
+      <EffectLayer>
+        <Effect ref="1" name="Color Wash" selected="1" startTime="0" endTime="599000" palette="1"/>
+      </EffectLayer>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

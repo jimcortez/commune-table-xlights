@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Networks computer="luna" GlobalFPPProxy="" GlobalForceLocalIP="" AutoUpdateFromBase="0" BaseShowDir="">
+  <Controller Id="1" Name="commune_table1" Description="" Type="Ethernet" Vendor="WLED" Model="QuinLED-Dig-Octa" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.8.167" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="0" ComPort="192.168.8.167" BaudRate="1" NetworkType="DDP" MaxChannels="9477"/>
+  </Controller>
+  <Controller Id="2" Name="commune_table2" Description="" Type="Ethernet" Vendor="WLED" Model="QuinLED-Dig-Octa" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.8.219" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="0" ComPort="192.168.8.219" BaudRate="2" NetworkType="DDP" MaxChannels="8163"/>
+  </Controller>
+  <Controller Id="3" Name="commune_legs_1" Description="" Type="Ethernet" Vendor="WLED" Model="QuinLED-Dig-Quad" Variant="ESP32" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.8.158" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="0" ComPort="192.168.8.158" BaudRate="3" NetworkType="DDP" MaxChannels="1452"/>
+  </Controller>
+  <Controller Id="4" Name="commune_legs_2" Description="" Type="Ethernet" Vendor="WLED" Model="QuinLED-Dig-Quad" Variant="ESP32" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.8.118" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="0" ComPort="192.168.8.118" BaudRate="4" NetworkType="DDP" MaxChannels="1452"/>
+  </Controller>
+  <Controller Id="5" Name="commune_chand_beacon" Description="" Type="Ethernet" Vendor="WLED" Model="QuinLED-Dig-Quad" Variant="ESP32" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.8.218" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="0" ComPort="192.168.8.218" BaudRate="5" NetworkType="DDP" MaxChannels="2022"/>
+  </Controller>
+  <Controller Id="6" Name="FPP Table" Description="" Type="Ethernet" Vendor="FPP" Model="FPP Player Only" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.8.248" Protocol="Player Only" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP=""/>
+</Networks>

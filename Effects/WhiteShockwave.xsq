@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2024.13</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile></mediaFile>
+    <sequenceDuration>30.000</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <Jukebox/>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#000000,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#FFFFFF,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette6=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,B_CHOICE_PerPreviewCamera=Top,E_CHECKBOX_Shockwave_Blend_Edges=1,E_CHECKBOX_Shockwave_Scale=1,E_NOTEBOOK_Shockwave=Options,E_SLIDER_Shockwave_Accel=-3,E_SLIDER_Shockwave_CenterX=51,E_SLIDER_Shockwave_CenterY=51,E_SLIDER_Shockwave_Cycles=13,E_SLIDER_Shockwave_End_Radius=65,E_SLIDER_Shockwave_End_Width=47,E_SLIDER_Shockwave_Start_Radius=69,E_SLIDER_Shockwave_Start_Width=64</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="All" visible="1"/>
+    <Element collapsed="0" type="model" name="All Legs" visible="1"/>
+    <Element collapsed="0" type="model" name="Chandelier" visible="1"/>
+    <Element collapsed="0" type="model" name="LegsBeacon" visible="1"/>
+    <Element collapsed="0" type="model" name="Beacon" visible="1"/>
+    <Element collapsed="0" type="model" name="Susan" visible="1"/>
+    <Element collapsed="0" type="model" name="Table" visible="1"/>
+    <Element collapsed="0" type="model" name="TableSusan" visible="1"/>
+    <Element collapsed="0" type="model" name="Leg8" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_1" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_2" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_3" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_4" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_5" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_6" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_7" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_8" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_9" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_10" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_11" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_12" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_13" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_14" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_15" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_16" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_17" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_18" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_19" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_20" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_21" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_22" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_23" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_24" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_25" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_26" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_27L" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_27R" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_28L" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_28R" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_29L" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_29R" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_30L" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_30R" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_31L" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_31R" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_32L" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_32R" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_33L" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_33R" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_34L" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_34R" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_35L" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_35R" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_36L" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_36R" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_37L" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_37R" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_38L" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_38R" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_39L" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_39R" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_40L" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_40R" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_41L" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_41R" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_42L" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_42R" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_43L" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_43R" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_44L" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_44R" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_45L" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_45R" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_46L" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_46R" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_47L" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_47R" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_48L" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_48R" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_49L" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_49R" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_50L" visible="1"/>
+    <Element collapsed="0" type="model" name="table_quad_50R" visible="1"/>
+    <Element collapsed="0" type="model" name="table_top_51" visible="1"/>
+    <Element collapsed="0" type="model" name="table_top_52" visible="1"/>
+    <Element collapsed="0" type="model" name="table_top_53" visible="1"/>
+    <Element collapsed="0" type="model" name="table_top_54" visible="1"/>
+    <Element collapsed="0" type="model" name="table_top_55" visible="1"/>
+    <Element collapsed="0" type="model" name="table_top_56" visible="1"/>
+    <Element collapsed="0" type="model" name="table_top_57" visible="1"/>
+    <Element collapsed="0" type="model" name="table_top_58" visible="1"/>
+    <Element collapsed="0" type="model" name="table_top_59" visible="1"/>
+    <Element collapsed="0" type="model" name="table_top_60" visible="1"/>
+    <Element collapsed="0" type="model" name="table_top_61" visible="1"/>
+    <Element collapsed="0" type="model" name="table_top_62" visible="1"/>
+    <Element collapsed="0" type="model" name="table_top_63" visible="1"/>
+    <Element collapsed="0" type="model" name="table_top_64" visible="1"/>
+    <Element collapsed="0" type="model" name="table_top_65" visible="1"/>
+    <Element collapsed="0" type="model" name="table_top_66" visible="1"/>
+    <Element collapsed="0" type="model" name="table_top_67" visible="1"/>
+    <Element collapsed="0" type="model" name="table_top_68" visible="1"/>
+    <Element collapsed="0" type="model" name="table_top_69" visible="1"/>
+    <Element collapsed="0" type="model" name="table_top_70" visible="1"/>
+    <Element collapsed="0" type="model" name="table_top_71" visible="1"/>
+    <Element collapsed="0" type="model" name="table_top_72" visible="1"/>
+    <Element collapsed="0" type="model" name="table_top_73" visible="1"/>
+    <Element collapsed="0" type="model" name="table_top_74" visible="1"/>
+    <Element collapsed="0" type="model" name="table_top_75" visible="1"/>
+    <Element collapsed="0" type="model" name="table_top_76" visible="1"/>
+    <Element collapsed="0" type="model" name="SusanEdge8" visible="1"/>
+    <Element collapsed="0" type="model" name="SusanEdge7" visible="1"/>
+    <Element collapsed="0" type="model" name="SusanEdge6" visible="1"/>
+    <Element collapsed="0" type="model" name="SusanEdge5" visible="1"/>
+    <Element collapsed="0" type="model" name="SusanEdge4" visible="1"/>
+    <Element collapsed="0" type="model" name="SusanEdge3" visible="1"/>
+    <Element collapsed="0" type="model" name="SusanEdge2" visible="1"/>
+    <Element collapsed="0" type="model" name="SusanEdge1" visible="1"/>
+    <Element collapsed="0" type="model" name="SusanRadial8" visible="1"/>
+    <Element collapsed="0" type="model" name="SusanRadial7" visible="1"/>
+    <Element collapsed="0" type="model" name="SusanRadial6" visible="1"/>
+    <Element collapsed="0" type="model" name="SusanRadial5" visible="1"/>
+    <Element collapsed="0" type="model" name="SusanRadial4" visible="1"/>
+    <Element collapsed="0" type="model" name="SusanRadial3" visible="1"/>
+    <Element collapsed="0" type="model" name="SusanRadial2" visible="1"/>
+    <Element collapsed="0" type="model" name="SusanRadial1" visible="1"/>
+    <Element collapsed="0" type="model" name="Leg7" visible="1"/>
+    <Element collapsed="0" type="model" name="Leg6" visible="1"/>
+    <Element collapsed="0" type="model" name="Leg5" visible="1"/>
+    <Element collapsed="0" type="model" name="Leg4" visible="1"/>
+    <Element collapsed="0" type="model" name="Leg3" visible="1"/>
+    <Element collapsed="0" type="model" name="Leg2" visible="1"/>
+    <Element collapsed="0" type="model" name="Leg1" visible="1"/>
+    <Element collapsed="0" type="model" name="ChandRingTop" visible="1"/>
+    <Element collapsed="0" type="model" name="ChandRingBotttom" visible="1"/>
+    <Element collapsed="0" type="model" name="ChandRingMiddle" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle-16" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle-15" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle-11" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle-10" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle-9" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle-8" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle-7" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle-6" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle-5" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Legs">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Chandelier">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LegsBeacon">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Beacon">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Susan">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Table">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="TableSusan">
+      <EffectLayer>
+        <Effect ref="0" name="Shockwave" startTime="0" endTime="30000" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Leg8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_9">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_10">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_11">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_12">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_13">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_14">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_15">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_16">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_17">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_18">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_19">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_20">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_21">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_22">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_23">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_24">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_25">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_26">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_27L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_27R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_28L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_28R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_29L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_29R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_30L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_30R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_31L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_31R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_32L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_32R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_33L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_33R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_34L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_34R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_35L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_35R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_36L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_36R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_37L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_37R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_38L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_38R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_39L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_39R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_40L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_40R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_41L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_41R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_42L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_42R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_43L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_43R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_44L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_44R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_45L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_45R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_46L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_46R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_47L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_47R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_48L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_48R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_49L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_49R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_50L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_quad_50R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_top_51">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_top_52">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_top_53">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_top_54">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_top_55">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_top_56">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_top_57">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_top_58">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_top_59">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_top_60">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_top_61">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_top_62">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_top_63">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_top_64">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_top_65">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_top_66">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_top_67">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_top_68">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_top_69">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_top_70">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_top_71">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_top_72">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_top_73">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_top_74">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_top_75">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_top_76">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SusanEdge8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SusanEdge7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SusanEdge6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SusanEdge5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SusanEdge4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SusanEdge3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SusanEdge2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SusanEdge1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SusanRadial8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SusanRadial7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SusanRadial6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SusanRadial5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SusanRadial4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SusanRadial3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SusanRadial2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SusanRadial1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Leg7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Leg6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Leg5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Leg4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Leg3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Leg2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Leg1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="ChandRingTop">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="ChandRingBotttom">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="ChandRingMiddle">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle-16">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle-15">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle-11">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle-10">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle-9">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle-8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle-7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle-5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

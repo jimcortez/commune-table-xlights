@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2024.13</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile/>
+    <sequenceDuration>30.000</sequenceDuration>
+    <imageDir/>
+  </head>
+  <nextid>1</nextid>
+  <Jukebox/>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,B_CHOICE_PerPreviewCamera=Top,B_SLIDER_Blur=2,E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHECKBOX_Bars_UseFirstColorForHighlight=0,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=2.9</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="All" visible="1"/>
+    <Element collapsed="0" type="model" name="All Legs" visible="1"/>
+    <Element collapsed="0" type="model" name="Chandelier" visible="1"/>
+    <Element collapsed="0" type="model" name="LegsBeacon" visible="1"/>
+    <Element collapsed="0" type="model" name="Beacon" visible="1"/>
+    <Element collapsed="0" type="model" name="Susan" visible="1"/>
+    <Element collapsed="0" type="model" name="Table" visible="1"/>
+    <Element collapsed="0" type="model" name="susan_edge4-7" visible="1"/>
+    <Element collapsed="0" type="model" name="susan_edge3-6" visible="1"/>
+    <Element collapsed="0" type="model" name="susan_edge7-14" visible="1"/>
+    <Element collapsed="0" type="model" name="susan_edge8-16" visible="1"/>
+    <Element collapsed="0" type="model" name="susan_edge1-2" visible="1"/>
+    <Element collapsed="0" type="model" name="susan_edge5-10" visible="1"/>
+    <Element collapsed="0" type="model" name="susan_edge2-3" visible="1"/>
+    <Element collapsed="0" type="model" name="susan_edge6-11" visible="1"/>
+    <Element collapsed="0" type="model" name="susan_radial2-4" visible="1"/>
+    <Element collapsed="0" type="model" name="susan_radial6-12" visible="1"/>
+    <Element collapsed="0" type="model" name="susan_radial8-17" visible="1"/>
+    <Element collapsed="0" type="model" name="susan_radial7-13" visible="1"/>
+    <Element collapsed="0" type="model" name="susan_radial3-5" visible="1"/>
+    <Element collapsed="0" type="model" name="susan_radial4-8" visible="1"/>
+    <Element collapsed="0" type="model" name="susan_radial5-9" visible="1"/>
+    <Element collapsed="0" type="model" name="susan_radial1-1" visible="1"/>
+    <Element collapsed="0" type="model" name="Leg8" visible="1"/>
+    <Element collapsed="0" type="model" name="Leg7" visible="1"/>
+    <Element collapsed="0" type="model" name="Leg6" visible="1"/>
+    <Element collapsed="0" type="model" name="Leg5" visible="1"/>
+    <Element collapsed="0" type="model" name="Leg4" visible="1"/>
+    <Element collapsed="0" type="model" name="Leg3" visible="1"/>
+    <Element collapsed="0" type="model" name="Leg2" visible="1"/>
+    <Element collapsed="0" type="model" name="Leg1" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" selected="1" startTime="0" endTime="29900" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="All Legs">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Chandelier">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LegsBeacon">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Beacon">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Susan">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Table">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="susan_edge4-7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="susan_edge3-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="susan_edge7-14">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="susan_edge8-16">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="susan_edge1-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="susan_edge5-10">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="susan_edge2-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="susan_edge6-11">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="susan_radial2-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="susan_radial6-12">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="susan_radial8-17">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="susan_radial7-13">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="susan_radial3-5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="susan_radial4-8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="susan_radial5-9">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="susan_radial1-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Leg8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Leg7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Leg6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Leg5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Leg4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Leg3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Leg2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Leg1">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

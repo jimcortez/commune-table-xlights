@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2024.13</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile/>
+    <sequenceDuration>600.000</sequenceDuration>
+    <imageDir/>
+  </head>
+  <nextid>1</nextid>
+  <Jukebox/>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette6=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,B_CHOICE_PerPreviewCamera=Top,B_SLIDER_Blur=5,E_0FILEPICKERCTRL_IFS=/Users/jecortez/workspace/commune/Shaders/RainbowGlowRing.fs,E_SLIDER_SHADERXYZZY_amp=1,E_SLIDER_SHADERXYZZY_centerX=48,E_SLIDER_SHADERXYZZY_centerY=53,E_SLIDER_SHADERXYZZY_glow=338,E_SLIDER_SHADERXYZZY_mult=218,E_SLIDER_SHADERXYZZY_noise=18,E_SLIDER_SHADERXYZZY_radius1=10,E_SLIDER_SHADERXYZZY_radius2=13,E_SLIDER_SHADERXYZZY_rate=99,E_SLIDER_SHADERXYZZY_warp=202,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="All" visible="1"/>
+    <Element collapsed="0" type="model" name="All Legs" visible="1"/>
+    <Element collapsed="0" type="model" name="Chandelier" visible="1"/>
+    <Element collapsed="0" type="model" name="LegsBeacon" visible="1"/>
+    <Element collapsed="0" type="model" name="Beacon" visible="1"/>
+    <Element collapsed="0" type="model" name="Susan" visible="1"/>
+    <Element collapsed="0" type="model" name="TableSusan" visible="1"/>
+    <Element collapsed="0" type="model" name="Table" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_9" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_8" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_7" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_6" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_5" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_4" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_3" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_2" visible="1"/>
+    <Element collapsed="0" type="model" name="table_bottom_1" visible="1"/>
+    <Element collapsed="0" type="model" name="SusanEdge8" visible="1"/>
+    <Element collapsed="0" type="model" name="SusanEdge7" visible="1"/>
+    <Element collapsed="0" type="model" name="SusanEdge6" visible="1"/>
+    <Element collapsed="0" type="model" name="SusanEdge5" visible="1"/>
+    <Element collapsed="0" type="model" name="SusanEdge4" visible="1"/>
+    <Element collapsed="0" type="model" name="SusanEdge3" visible="1"/>
+    <Element collapsed="0" type="model" name="SusanEdge2" visible="1"/>
+    <Element collapsed="0" type="model" name="SusanEdge1" visible="1"/>
+    <Element collapsed="0" type="model" name="SusanRadial8" visible="1"/>
+    <Element collapsed="0" type="model" name="SusanRadial7" visible="1"/>
+    <Element collapsed="0" type="model" name="SusanRadial6" visible="1"/>
+    <Element collapsed="0" type="model" name="SusanRadial5" visible="1"/>
+    <Element collapsed="0" type="model" name="SusanRadial4" visible="1"/>
+    <Element collapsed="0" type="model" name="SusanRadial3" visible="1"/>
+    <Element collapsed="0" type="model" name="SusanRadial2" visible="1"/>
+    <Element collapsed="0" type="model" name="SusanRadial1" visible="1"/>
+    <Element collapsed="0" type="model" name="Leg8" visible="1"/>
+    <Element collapsed="0" type="model" name="Leg7" visible="1"/>
+    <Element collapsed="0" type="model" name="Leg6" visible="1"/>
+    <Element collapsed="0" type="model" name="Leg5" visible="1"/>
+    <Element collapsed="0" type="model" name="Leg4" visible="1"/>
+    <Element collapsed="0" type="model" name="Leg3" visible="1"/>
+    <Element collapsed="0" type="model" name="Leg2" visible="1"/>
+    <Element collapsed="0" type="model" name="Leg1" visible="1"/>
+    <Element collapsed="0" type="model" name="ChandRingTop" visible="1"/>
+    <Element collapsed="0" type="model" name="ChandRingBotttom" visible="1"/>
+    <Element collapsed="0" type="model" name="ChandRingMiddle" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle-16" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle-15" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle-11" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle-10" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle-9" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle-8" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle-7" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle-6" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle-5" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All">
+      <EffectLayer>
+        <Effect ref="0" name="Shader" selected="1" startTime="1200" endTime="601200" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="All Legs">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Chandelier">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LegsBeacon">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Beacon">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Susan">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="TableSusan">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Table">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_9">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="table_bottom_1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SusanEdge8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SusanEdge7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SusanEdge6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SusanEdge5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SusanEdge4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SusanEdge3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SusanEdge2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SusanEdge1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SusanRadial8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SusanRadial7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SusanRadial6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SusanRadial5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SusanRadial4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SusanRadial3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SusanRadial2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SusanRadial1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Leg8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Leg7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Leg6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Leg5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Leg4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Leg3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Leg2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Leg1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="ChandRingTop">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="ChandRingBotttom">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="ChandRingMiddle">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle-16">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle-15">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle-11">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle-10">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle-9">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle-8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle-7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle-5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

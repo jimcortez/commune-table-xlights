@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2024.11</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile/>
+    <sequenceDuration>600</sequenceDuration>
+    <imageDir/>
+  </head>
+  <nextid>1</nextid>
+  <Jukebox/>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#6A00D5,C_BUTTON_Palette2=#AE5EFF,C_BUTTON_Palette3=#AC59FF,C_BUTTON_Palette4=#D7AEFF,C_BUTTON_Palette5=#E6CCFF,C_BUTTON_Palette6=#EFDFFF,C_BUTTON_Palette7=#F2E6FF,C_BUTTON_Palette8=#FEE7FE,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,B_CHOICE_PerPreviewCamera=LeftAngleMain,E_0FILEPICKERCTRL_IFS=/Users/jecortez/workspace/commune/Shaders/ForkedUntitled.fs,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=14</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,B_CHOICE_PerPreviewCamera=LeftAngleMain,E_0FILEPICKERCTRL_IFS=/Users/jecortez/workspace/commune/Shaders/kishimisu_tutorial.fs,E_CHOICE_SHADERXYZZY_flashInput=New Timing,E_SLIDER_SHADERXYZZY_bloom=90,E_SLIDER_SHADERXYZZY_pointInputX=0,E_SLIDER_SHADERXYZZY_pointInputY=0,E_SLIDER_SHADERXYZZY_speed=42,E_SLIDER_SHADERXYZZY_twist=10,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=36</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,B_CHOICE_PerPreviewCamera=LeftAngleMain,E_0FILEPICKERCTRL_IFS=/Users/jecortez/workspace/commune/Shaders/CosmicFlare.fs,E_CHECKBOX_SHADERXYZZY_warp=1,E_SLIDER_SHADERXYZZY_blue=100,E_SLIDER_SHADERXYZZY_brightness=200,E_SLIDER_SHADERXYZZY_curvature=30000,E_SLIDER_SHADERXYZZY_freq=800,E_SLIDER_SHADERXYZZY_gamma=200,E_SLIDER_SHADERXYZZY_green=200,E_SLIDER_SHADERXYZZY_ray_brightness=600,E_SLIDER_SHADERXYZZY_ray_density=1000,E_SLIDER_SHADERXYZZY_red=700,E_SLIDER_SHADERXYZZY_spot_brightness=500,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=-64</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,B_CHOICE_PerPreviewCamera=LeftAngleMain,E_0FILEPICKERCTRL_IFS=/Users/jecortez/workspace/commune/Shaders/HexPattern.fs,E_SLIDER_SHADERXYZZY_speed=74,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,B_CHOICE_PerPreviewCamera=LeftAngleMain,E_0FILEPICKERCTRL_IFS=/Users/jecortez/workspace/commune/Shaders/PsychedeliaGenerica.fs,E_SLIDER_SHADERXYZZY_mouseX=0,E_SLIDER_SHADERXYZZY_mouseY=0,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="Beacon" visible="1"/>
+    <Element collapsed="0" type="model" name="All Legs" visible="1"/>
+    <Element collapsed="0" type="model" name="Chandelier" visible="1"/>
+    <Element collapsed="0" type="model" name="Globe" visible="1"/>
+    <Element collapsed="0" type="model" name="ChandRings" visible="1"/>
+    <Element collapsed="0" type="model" name="TableSusan" visible="1"/>
+    <Element collapsed="0" type="model" name="All" visible="1"/>
+    <Element collapsed="0" type="model" name="Table" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Beacon">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Legs">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Chandelier">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Globe">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="ChandRings">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="TableSusan">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All">
+      <EffectLayer>
+        <Effect ref="0" name="Shader" startTime="0" endTime="120000" palette="0"/>
+        <Effect ref="1" name="Shader" id="1" startTime="120000" endTime="240000" palette="0"/>
+        <Effect ref="2" name="Shader" id="2" startTime="240000" endTime="360000" palette="0"/>
+        <Effect ref="3" name="Shader" id="3" startTime="361450" endTime="481450" palette="0"/>
+        <Effect ref="4" name="Shader" id="4" startTime="481450" endTime="601450" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Table">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>
