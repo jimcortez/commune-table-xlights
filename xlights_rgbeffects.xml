@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xrgb>
   <models>
-    <model DisplayAs="Poly Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="susan_outer-15" parm2="145" Controller="commune_table1" ModelChain="&gt;susan_edge7-14" WorldPosX="-16.5709" WorldPosY="47.2428" WorldPosZ="-32.5300" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" NumPoints="9" PointData="29.406898,0.172191,-0.040527,12.700804,0.225679,-0.018210,0.696487,0.285890,12.291907,0.013295,0.316301,28.281975,11.755525,0.299604,40.131668,28.774250,0.245196,40.185116,41.302288,0.183036,27.710283,41.236561,0.154453,11.359392,29.706787,0.171494,0.111613" cPointData="" versionNumber="7" StartChannel="!commune_table1:8935">
+    <model DisplayAs="Poly Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="susan_outer-15" parm2="145" Controller="commune_table1" ModelChain="&gt;susan_edge7-14" WorldPosX="-16.5709" WorldPosY="44.1298" WorldPosZ="-32.5300" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" NumPoints="9" PointData="29.406898,0.172191,-0.040527,12.700804,0.225679,-0.018210,0.696487,0.285890,12.291907,0.013295,0.316301,28.281975,11.755525,0.299604,40.131668,28.774250,0.245196,40.185116,41.302288,0.183036,27.710283,41.236561,0.154453,11.359392,29.706787,0.171494,0.111613" cPointData="" versionNumber="7" StartChannel="!commune_table1:8935">
       <ControllerConnection Port="7" Protocol="ws2811"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" LayoutGroup="Default" parm1="1" parm3="1" Controller="commune_table1" name="table_bottom_1" parm2="41" WorldPosX="48.9468" WorldPosY="43.0000" WorldPosZ="7.1426" X2="-0.480370" Y2="-0.044338" Z2="-37.580002" versionNumber="7" StartChannel="!commune_table1:1">
@@ -23,7 +23,7 @@
       <ControllerConnection Port="1" Protocol="ws2811"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" LayoutGroup="Default" parm1="1" parm3="1" Controller="commune_table1" name="table_bottom_7" ModelChain="&gt;table_bottom_6" parm2="57" WorldPosX="41.9075" WorldPosY="43.0010" WorldPosZ="15.0858" X2="-0.501778" Y2="-0.046299" Z2="-53.616245" versionNumber="7" StartChannel="!commune_table1:850">
-      <ControllerConnection Port="1" Protocol="ws2811" nullNodes="1"/>
+      <ControllerConnection Port="1" Protocol="ws2811"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" LayoutGroup="Default" parm1="1" parm3="1" Controller="commune_table1" name="table_bottom_8" parm2="60" ModelChain="&gt;table_bottom_7" WorldPosX="40.1343" WorldPosY="43.0000" WorldPosZ="-39.1219" X2="0.480370" Y2="-0.044338" Z2="54.995121" versionNumber="7" StartChannel="!commune_table1:1021">
       <ControllerConnection Port="1" Protocol="ws2811"/>
@@ -32,7 +32,7 @@
       <ControllerConnection Port="1" Protocol="ws2811"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" LayoutGroup="Default" parm1="1" parm3="1" Controller="commune_table1" name="table_bottom_10" parm2="64" WorldPosX="37.7843" WorldPosY="43.0000" WorldPosZ="-40.7849" X2="0.480370" Y2="-0.044338" Z2="58.661465" versionNumber="7" StartChannel="!commune_table1:1387">
-      <ControllerConnection Port="2" Protocol="ws2811" nullNodes="1"/>
+      <ControllerConnection Port="2" Protocol="ws2811"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" LayoutGroup="Default" parm1="1" parm3="1" Controller="commune_table1" name="table_bottom_11" ModelChain="&gt;table_bottom_10" parm2="66" WorldPosX="37.2024" WorldPosY="43.0005" WorldPosZ="18.9883" X2="-0.491669" Y2="-0.045368" Z2="-60.981300" versionNumber="7" StartChannel="!commune_table1:1579">
       <ControllerConnection Port="2" Protocol="ws2811"/>
@@ -53,7 +53,7 @@
       <ControllerConnection Port="2" Protocol="ws2811"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" LayoutGroup="Default" parm1="1" parm3="1" Controller="commune_table1" name="table_bottom_17" parm2="82" WorldPosX="30.1468" WorldPosY="43.0000" WorldPosZ="25.5619" X2="-0.480370" Y2="-0.044338" Z2="-74.243416" versionNumber="7" StartChannel="!commune_table1:2887">
-      <ControllerConnection Port="3" Protocol="ws2811" nullNodes="1"/>
+      <ControllerConnection Port="3" Protocol="ws2811"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" LayoutGroup="Default" parm1="1" parm3="1" Controller="commune_table1" name="table_bottom_18" ModelChain="&gt;table_bottom_17" parm2="84" WorldPosX="28.3843" WorldPosY="43.0000" WorldPosZ="-49.7081" X2="0.480370" Y2="-0.044338" Z2="76.076584" versionNumber="7" StartChannel="!commune_table1:3133">
       <ControllerConnection Port="3" Protocol="ws2811"/>
@@ -68,7 +68,7 @@
       <ControllerConnection Port="3" Protocol="ws2811"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" LayoutGroup="Default" parm1="1" parm3="1" Controller="commune_table1" name="table_bottom_22" parm2="96" WorldPosX="23.6843" WorldPosY="43.0000" WorldPosZ="-55.0064" X2="0.480370" Y2="-0.044338" Z2="87.992195" versionNumber="7" StartChannel="!commune_table1:4195">
-      <ControllerConnection Port="4" Protocol="ws2811" nullNodes="1"/>
+      <ControllerConnection Port="4" Protocol="ws2811"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" LayoutGroup="Default" parm1="1" parm3="1" Controller="commune_table1" name="table_bottom_23" parm2="98" ModelChain="&gt;table_bottom_22" WorldPosX="23.0970" WorldPosY="43.0000" WorldPosZ="33.9421" X2="-0.480646" Y2="-0.044342" Z2="-89.878883" versionNumber="7" StartChannel="!commune_table1:4483">
       <ControllerConnection Port="4" Protocol="ws2811"/>
@@ -83,10 +83,10 @@
       <ControllerConnection Port="4" Protocol="ws2811"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" LayoutGroup="Default" parm1="1" parm3="1" Controller="commune_table1" name="table_quad_27L" parm2="41" WorldPosX="18.0442" WorldPosY="43.0000" WorldPosZ="-2.5751" X2="0.224147" Y2="-0.044338" Z2="37.582417" versionNumber="7" StartChannel="!commune_table1:6922">
-      <ControllerConnection Protocol="ws2811" Port="6" nullNodes="1"/>
+      <ControllerConnection Protocol="ws2811" Port="6"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" LayoutGroup="Default" parm1="1" parm3="1" Controller="commune_table2" name="table_quad_27R" parm2="41" WorldPosX="18.1268" WorldPosY="43.0002" WorldPosZ="-18.6399" X2="-0.318913" Y2="-0.044716" Z2="-37.930000" versionNumber="7" StartChannel="!commune_table2:5674">
-      <ControllerConnection Protocol="ws2811" Port="5" nullNodes="1"/>
+      <ControllerConnection Protocol="ws2811" Port="5"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" LayoutGroup="Default" parm1="1" parm3="1" Controller="commune_table1" name="table_quad_28L" parm2="40" ModelChain="&gt;table_quad_27L" WorldPosX="16.9102" WorldPosY="43.0000" WorldPosZ="35.0071" X2="-0.071302" Y2="-0.044338" Z2="-36.666496" versionNumber="7" StartChannel="!commune_table1:7045">
       <ControllerConnection Port="6" Protocol="ws2811"/>
@@ -155,7 +155,7 @@
       <ControllerConnection Port="5" Protocol="ws2811"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" LayoutGroup="Default" parm1="1" parm3="1" Controller="commune_table1" name="table_quad_39L" parm2="29" WorldPosX="3.7987" WorldPosY="43.0000" WorldPosZ="8.4252" X2="0.515757" Y2="-0.044338" Z2="26.580296" versionNumber="7" StartChannel="!commune_table1:5677">
-      <ControllerConnection Protocol="ws2811" Port="5" nullNodes="1"/>
+      <ControllerConnection Protocol="ws2811" Port="5"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" LayoutGroup="Default" parm1="1" parm3="1" Controller="commune_table2" name="table_quad_39R" parm2="30" WorldPosX="4.0939" WorldPosY="43.0000" WorldPosZ="-56.5752" X2="0.315964" Y2="-0.044338" Z2="26.580978" versionNumber="7" StartChannel="!commune_table2:6919">
       <ControllerConnection Port="6" Protocol="ws2811"/>
@@ -236,7 +236,7 @@
       <ControllerConnection Port="4" Protocol="ws2811"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" LayoutGroup="Default" parm1="1" parm3="1" Controller="commune_table2" name="table_top_54" parm2="98" WorldPosX="-13.9157" WorldPosY="43.0000" WorldPosZ="-56.5581" X2="0.480370" Y2="-0.044338" Z2="89.825363" versionNumber="7" StartChannel="!commune_table2:4480">
-      <ControllerConnection Port="4" Protocol="ws2811" nullNodes="1"/>
+      <ControllerConnection Port="4" Protocol="ws2811"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" LayoutGroup="Default" parm1="1" parm3="1" name="table_top_55" parm2="96" Controller="commune_table2" ModelChain="&gt;table_top_56" WorldPosX="-14.5032" WorldPosY="43.0000" WorldPosZ="32.3756" X2="-0.480352" Y2="-0.044338" Z2="-87.992195" versionNumber="7" StartChannel="!commune_table2:4192">
       <ControllerConnection Port="3" Protocol="ws2811"/>
@@ -275,7 +275,7 @@
       <ControllerConnection Port="2" Protocol="ws2811"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" LayoutGroup="Default" parm1="1" parm3="1" Controller="commune_table2" name="table_top_67" parm2="64" WorldPosX="-28.6032" WorldPosY="43.0000" WorldPosZ="17.7996" X2="-0.480370" Y2="-0.044338" Z2="-58.661465" versionNumber="7" StartChannel="!commune_table2:1384">
-      <ControllerConnection Port="2" Protocol="ws2811" nullNodes="1"/>
+      <ControllerConnection Port="2" Protocol="ws2811"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" LayoutGroup="Default" parm1="1" parm3="1" Controller="commune_table2" name="table_top_68" parm2="62" ModelChain="&gt;table_top_69" WorldPosX="-30.3657" WorldPosY="43.0000" WorldPosZ="-39.9133" X2="0.480370" Y2="-0.044338" Z2="56.828293" versionNumber="7" StartChannel="!commune_table2:1198">
       <ControllerConnection Port="1" Protocol="ws2811"/>
@@ -302,7 +302,7 @@
       <ControllerConnection Port="1" Protocol="ws2811"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" LayoutGroup="Default" parm1="1" parm3="1" Controller="commune_table2" name="table_top_76" parm2="41" WorldPosX="-39.7657" WorldPosY="43.0000" WorldPosZ="-30.8436" X2="0.480370" Y2="-0.044338" Z2="37.580002" versionNumber="7" StartChannel="!commune_table2:1">
-      <ControllerConnection Port="1" Protocol="ws2811" nullNodes="1"/>
+      <ControllerConnection Port="1" Protocol="ws2811"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="18" name="susan_edge4-7" Controller="commune_table1" ModelChain="&gt;susan_edge3-6" WorldPosX="-3.2058" WorldPosY="44.5795" WorldPosZ="8.6549" X2="-11.692096" Y2="0.001965" Z2="-11.774151" versionNumber="7" StartChannel="!commune_table1:8494">
       <Aliases>
@@ -374,7 +374,7 @@
       <ControllerConnection Port="7" Protocol="ws2811"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="19" name="susan_radial1-1" Controller="commune_table1" WorldPosX="6.4141" WorldPosY="44.2504" WorldPosZ="-11.3670" X2="17.542198" Y2="-0.201797" Z2="-0.407256" versionNumber="7" StartChannel="!commune_table1:8167">
-      <ControllerConnection Protocol="ws2811" Port="7" nullNodes="1"/>
+      <ControllerConnection Protocol="ws2811" Port="7"/>
     </model>
   </models>
   <view_objects>

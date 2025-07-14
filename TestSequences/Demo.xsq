@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2024.11</version>
+    <version>2025.06</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -33,11 +33,6 @@
   </DataLayers>
   <DisplayElements>
     <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
-    <Element collapsed="0" type="model" name="Beacon" visible="1"/>
-    <Element collapsed="0" type="model" name="All Legs" visible="1"/>
-    <Element collapsed="0" type="model" name="Chandelier" visible="1"/>
-    <Element collapsed="0" type="model" name="Globe" visible="1"/>
-    <Element collapsed="0" type="model" name="ChandRings" visible="1"/>
     <Element collapsed="0" type="model" name="TableSusan" visible="1"/>
     <Element collapsed="0" type="model" name="All" visible="1"/>
     <Element collapsed="0" type="model" name="Table" visible="1"/>
@@ -46,27 +41,12 @@
     <Element type="timing" name="New Timing">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Beacon">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="All Legs">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Chandelier">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Globe">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="ChandRings">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="TableSusan">
       <EffectLayer/>
     </Element>
     <Element type="model" name="All">
       <EffectLayer>
-        <Effect ref="0" name="Shader" startTime="0" endTime="120000" palette="0"/>
+        <Effect ref="0" name="Shader" selected="1" startTime="0" endTime="120000" palette="0"/>
         <Effect ref="1" name="Shader" id="1" startTime="120000" endTime="240000" palette="0"/>
         <Effect ref="2" name="Shader" id="2" startTime="240000" endTime="360000" palette="0"/>
         <Effect ref="3" name="Shader" id="3" startTime="361450" endTime="481450" palette="0"/>

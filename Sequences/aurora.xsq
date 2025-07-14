@@ -19,10 +19,10 @@
   <nextid>1</nextid>
   <Jukebox/>
   <ColorPalettes>
-    <ColorPalette>C_BUTTON_Palette1=#FF0000,C_BUTTON_Palette2=#00FF00,C_BUTTON_Palette3=#FFFFFF,C_BUTTON_Palette4=Active=TRUE|Id=ID_BUTTON_Palette4|Values=x=0.000^c=#ff0000;x=1.000^c=#00ff00|,C_BUTTON_Palette5=Active=TRUE|Id=ID_BUTTON_Palette5|Values=x=0.000^c=#ff0000;x=0.500^c=#00ff00;x=1.000^c=#ffffff|,C_BUTTON_Palette6=Active=TRUE|Id=ID_BUTTON_Palette6|Values=x=0.000^c=#ff0000;x=0.500^c=#00ff00;x=1.000^c=#ff0000|,C_BUTTON_Palette7=Active=TRUE|Id=ID_BUTTON_Palette7|Values=x=0.000^c=#ff0000;x=0.330^c=#00ff00;x=0.670^c=#ffffff;x=1.000^c=#ff0000|,C_BUTTON_Palette8=#000000,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#000080,C_BUTTON_Palette2=#0000FF,C_BUTTON_Palette3=#3535FF,C_BUTTON_Palette4=#007DFB,C_BUTTON_Palette5=#46A3FF,C_BUTTON_Palette6=#63C9FA,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#AAFFFF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=1</ColorPalette>
   </ColorPalettes>
   <EffectDB>
-    <Effect>B_CHOICE_BufferStyle=Per Preview,B_CHOICE_PerPreviewCamera=Top,B_SLIDER_Blur=5,E_0FILEPICKERCTRL_IFS=/Users/jecortez/workspace/commune/Shaders/Aurora.fs,E_CHECKBOX_SHADERXYZZY_uContRot=1,E_CHOICE_SHADERXYZZY_uColMode=Alternate Color Palette (3 used) ,E_SLIDER_SHADERXYZZY_uIntensity=100,E_SLIDER_SHADERXYZZY_uOffsetX=-11,E_SLIDER_SHADERXYZZY_uOffsetY=0,E_SLIDER_SHADERXYZZY_uRotate=3677,E_SLIDER_SHADERXYZZY_uZoom=122,E_SLIDER_Shader_Speed=48,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=4,E_TEXTCTRL_Shader_Offset_Y=5,E_TEXTCTRL_Shader_Zoom=-57</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,B_CHOICE_PerPreviewCamera=Top,B_SLIDER_Blur=2,E_0FILEPICKERCTRL_IFS=/Users/jecortez/workspace/commune-shaders/table-shaders-isf/Aurora.fs,E_CHECKBOX_SHADERXYZZY_uContRot=0,E_CHOICE_SHADERXYZZY_uColMode=Shader Defaults ,E_SLIDER_SHADERXYZZY_uAnimSpeed=9,E_SLIDER_SHADERXYZZY_uIntensity=100,E_SLIDER_SHADERXYZZY_uIterations=1800,E_SLIDER_SHADERXYZZY_uOffsetX=0,E_SLIDER_SHADERXYZZY_uOffsetY=0,E_SLIDER_SHADERXYZZY_uRotate=-4595,E_SLIDER_SHADERXYZZY_uScaleFactor=100,E_SLIDER_SHADERXYZZY_uZoom=131,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0</Effect>
   </EffectDB>
   <DataLayers>
     <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
@@ -40,7 +40,7 @@
     </Element>
     <Element type="model" name="All">
       <EffectLayer>
-        <Effect ref="0" name="Shader" startTime="1200" endTime="601200" palette="0"/>
+        <Effect ref="0" name="Shader" selected="1" startTime="0" endTime="600000" palette="0"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Susan">
