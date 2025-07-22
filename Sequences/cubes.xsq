@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2025.06</version>
+    <version>2025.07</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -22,7 +22,7 @@
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette8=1</ColorPalette>
   </ColorPalettes>
   <EffectDB>
-    <Effect>B_CHOICE_BufferStyle=Per Preview,B_CHOICE_PerPreviewCamera=Top,B_SLIDER_Blur=3,E_0FILEPICKERCTRL_IFS=/Users/jecortez/workspace/commune-shaders/table-shaders-isf/VoronoiCubes.fs,E_SLIDER_SHADERXYZZY_C=89,E_SLIDER_SHADERXYZZY_M=246,E_SLIDER_SHADERXYZZY_Sat=196,E_SLIDER_SHADERXYZZY_Y=300,E_SLIDER_SHADERXYZZY_rate=61,E_SLIDER_SHADERXYZZY_scale=1588,E_SLIDER_SHADERXYZZY_scrambleX=4000,E_SLIDER_SHADERXYZZY_scrambleY=30832,E_SLIDER_SHADERXYZZY_seed1=15500,E_SLIDER_SHADERXYZZY_seed2=37700,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=5</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,B_CHOICE_PerPreviewCamera=Top,B_SLIDER_Blur=3,E_0FILEPICKERCTRL_IFS=/Users/jecortez/workspace/commune-table-xlights/commune-shaders/table-shaders-isf/VoronoiCubes.fs,E_SLIDER_SHADERXYZZY_C=200,E_SLIDER_SHADERXYZZY_M=100,E_SLIDER_SHADERXYZZY_Sat=250,E_SLIDER_SHADERXYZZY_Y=50,E_SLIDER_SHADERXYZZY_rate=100,E_SLIDER_SHADERXYZZY_scale=1000,E_SLIDER_SHADERXYZZY_scrambleX=4000,E_SLIDER_SHADERXYZZY_scrambleY=10000,E_SLIDER_SHADERXYZZY_seed1=15500,E_SLIDER_SHADERXYZZY_seed2=37700,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0</Effect>
   </EffectDB>
   <DataLayers>
     <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>

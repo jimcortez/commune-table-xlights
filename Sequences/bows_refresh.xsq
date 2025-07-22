@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2025.06</version>
+    <version>2025.07</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -19,10 +19,10 @@
   <nextid>1</nextid>
   <Jukebox/>
   <ColorPalettes>
-    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
   </ColorPalettes>
   <EffectDB>
-    <Effect>B_CHOICE_BufferStyle=Per Preview,B_CHOICE_PerPreviewCamera=Top,E_0FILEPICKERCTRL_IFS=/Users/jecortez/workspace/commune-table-xlights/commune-shaders/table-shaders-isf/ForkedUntitled.fs,E_SLIDER_Shader_Speed=26,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,B_CHOICE_PerPreviewCamera=Top,B_SLIDER_Blur=5,E_0FILEPICKERCTRL_IFS=/Users/jecortez/workspace/commune-table-xlights/commune-shaders/table-shaders-isf/Bows.fs,E_SLIDER_Shader_Speed=5,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=87</Effect>
   </EffectDB>
   <DataLayers>
     <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
@@ -40,7 +40,7 @@
     </Element>
     <Element type="model" name="All">
       <EffectLayer>
-        <Effect ref="0" name="Shader" selected="1" startTime="0" endTime="601200" palette="0"/>
+        <Effect ref="0" name="Shader" selected="1" startTime="0" endTime="600000" palette="0"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Susan">
